@@ -1,15 +1,22 @@
 <?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
     <channel>
-        <title><![CDATA[GRADIENT BLACK]]></title>
-        <description><![CDATA[GRADIENT BLACK]]></description>
-        <link>http://github.com/dylang/node-rss</link>
+        <title><![CDATA[GBK]]></title>
+        <description><![CDATA[GBK]]></description>
+        <link>https://thegrid.ai/gradientblack/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Sat, 09 Apr 2016 16:55:09 GMT</lastBuildDate>
-        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <lastBuildDate>Sat, 09 Apr 2016 16:59:23 GMT</lastBuildDate>
+        <atom:link href="https://thegrid.ai/gradientblack/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[No title]]></title>
+            <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/1d3c7322-331b-4db1-825c-c0960a9ccdf8.jpg">]]></description>
+            <link>https://thegrid.ai/gradientblack/another-test-post/index.html</link>
+            <guid isPermaLink="false">07827f8d-f2fa-4608-888d-9a0ae7f03a7b</guid>
+            <pubDate>Sat, 09 Apr 2016 16:59:14 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[No title]]></title>
             <description><![CDATA[<p>Testing Out Grid</p>]]></description>
-            <link>undefinedaae05950-b3a4-472d-a3b1-d6a65962ddbb/index.html</link>
+            <link>https://thegrid.ai/gradientblack/aae05950-b3a4-472d-a3b1-d6a65962ddbb/index.html</link>
             <guid isPermaLink="false">aae05950-b3a4-472d-a3b1-d6a65962ddbb</guid>
             <pubDate>Sat, 09 Apr 2016 16:55:09 GMT</pubDate>
         </item>
